@@ -1,6 +1,10 @@
 # Sidebar
 
+<div align="center">
+
 ![sidebar](./.github/sidebar-preview.gif)
+
+</div>
 
 ## 💻 Sobre o desafio
 
@@ -16,5 +20,10 @@ Neste desafio foi proposto criar uma página com uma sidebar como na imagem acim
 - CSS
 - Git e Github
 - Figma
+
+
+## ⚖ Licença
+
+Esse projeto está sob a licença MIT.
 
 Feito por Leandro Amaral 🐶
