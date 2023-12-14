@@ -1,6 +1,6 @@
 # Sidebar
 
-![sidebar](./.github/sidebarpreview.mp4)
+![sidebar](./.github/sidebar-preview.gif)
 
 ## 💻 Sobre o desafio
 
